@@ -1,5 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+# *
 User-agent: *
-Disallow:
+Allow: /
 
+# Host
+Host: https://www.maanijou.ir
+
+# Sitemaps
 Sitemap: https://www.maanijou.ir/sitemap.xml
